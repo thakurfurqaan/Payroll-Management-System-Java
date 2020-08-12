@@ -67,7 +67,7 @@ which include various administrative reports yet to be identified.
 ![alt text](https://github.com/thakurfurqaan/Payroll-Management-System-Java/blob/master/Screenshots/employee%20home%20leaves.png)
 
 ### DEVELOPMENT
-- Made using Java using Netbeans
+- Made using Java on Netbeans
 - H2 Database was used for storing data
 
 Thank You!
