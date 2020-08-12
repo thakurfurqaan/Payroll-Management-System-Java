@@ -1,7 +1,11 @@
 # PAYROLL MANAGEMENT SYSTEM (Java App)
 
-### USAGE TIPS
-- 
+### USAGE
+- It has been made using NetBeans, so please clone and open it on NetBeans only to avoid any unnecessary issues.
+- Use H2 Database. The ER is as follows:
+![AltText](https://github.com/thakurfurqaan/Payroll-Management-System-Java/blob/master/Payroll%20ER.jpg)
+- Use XAMPP Server for Database Connection.
+
 
 ### DESCRIPTION
 There is a need to develop a Database Management System for maintaining the Payroll
@@ -62,7 +66,7 @@ which include various administrative reports yet to be identified.
 12. Employee Dash - Leaves\
 ![alt text](https://github.com/thakurfurqaan/Payroll-Management-System-Java/blob/master/Screenshots/employee%20home%20leaves.png)
 
-### FEATURES
+### DEVELOPMENT
 - Made using Java using Netbeans
 - H2 Database was used for storing data
 
