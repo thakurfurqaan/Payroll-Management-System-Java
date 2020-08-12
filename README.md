@@ -1,6 +1,6 @@
 # Payroll-Management-System-Java
 
-DESCRIPTION
+DESCRIPTION\
 There is a need to develop a Database Management System for maintaining the Payroll
 of ABC Organization. ​ ABC needs a system which allows the employees to have their
 information available on their online portals. The system generates their Net Income
