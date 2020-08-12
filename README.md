@@ -1,5 +1,7 @@
 # PAYROLL MANAGEMENT SYSTEM (Java App)
 
+I created this Java App during my 5th Sem of Computer Engineering for Database Management System (DBMS) Course.
+
 ### USAGE
 - It has been made using NetBeans, so please clone and open it on NetBeans only to avoid any unnecessary issues.
 - Use H2 Database. The ER is as follows:
