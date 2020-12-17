@@ -4,7 +4,7 @@ I created this Java App during my 5th Sem of Computer Engineering for Database M
 
 ### USAGE
 - It has been made using NetBeans, so please clone and open it on NetBeans only to avoid any unnecessary issues.
-- Use H2 Database. Download it from http://www.h2database.com/html/download.html
+- Use H2 Database. Download it from https://h2database.com/h2-setup-2019-03-13.exe
 - The ER is as follows:
 ![AltText](https://github.com/thakurfurqaan/Payroll-Management-System-Java/blob/master/Payroll%20ER.jpg)
 - For the database files, copy and paste the files from the 'Database Files' Folder to 'C:\Users\Furqan' (your name will be there in place of 'Furqan').
